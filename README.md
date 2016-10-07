@@ -78,7 +78,7 @@ class called Example_Test.java.
 
 ###Inputs:
 1. Obtain the .graphml representation of these files: using the ACM framework's extraction and transformation functionality - framework
-setup is described at: [ACM repository](). Following framework setup invoke functionality of JavaExtractor and Transformer classes by running the testExtractionAndTransformation()
+setup is described at: [ACM repository](https://github.com/ildiphd/ACMFramework). Following framework setup invoke functionality of JavaExtractor and Transformer classes by running the testExtractionAndTransformation()
 test in the SetupTest class. Output: .graphml files representing Example.java (Example.graphml) and Example_Test.java 
 (Example_Test.graphml))
 

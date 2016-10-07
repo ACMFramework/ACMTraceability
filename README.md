@@ -103,6 +103,10 @@ The functionality is invoked by the main method of the Traceability class.
 
 **Run in the command line:** using javac and java commands specifying the argument [input xml file path]
 
+Running the application creates an ACMTraceability folder in the user's home folder containing all necessary files (training data) and
+the output.
 
+###Output:
+An XML output, which contains potentially connected source and targer elements idetified by unique ids. The file is placed in the user's home folder, in the ACMTraceability folder, and it is called: **finalOutput.xml**
 
 

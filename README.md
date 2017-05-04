@@ -111,4 +111,4 @@ An XML output, which contains potentially connected source and targer elements i
 
 
 ## Description of the data set
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/ACMFramework/ACMTraceability/blob/master/data/image.png "Description of the data set")

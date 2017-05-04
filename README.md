@@ -110,3 +110,5 @@ the output.
 An XML output, which contains potentially connected source and targer elements idetified by unique ids. The file is placed in the user's home folder, in the ACMTraceability folder, and it is called: **finalOutput.xml**
 
 
+## Description of the data set
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
